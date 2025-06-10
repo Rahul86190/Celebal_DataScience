@@ -41,10 +41,4 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-> Made with ❤️ using Python & Flask
+> Use Python & Flask 😎
